@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d56fd7c-f776-4cad-873d-a2dff9a9e4c6": {
+      "ProjectGuid": "8d56fd7c-f776-4cad-873d-a2dff9a9e4c6",
+      "DisplayName": "Alpaki.ProductManager.Internal.Api",
+      "ColorIndex": 0
+    },
+    "2b25818b-173d-4987-8188-ce18ba71a848": {
+      "ProjectGuid": "2b25818b-173d-4987-8188-ce18ba71a848",
+      "DisplayName": "Alpaki.ProductManager.Internal.Persistance",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "965b87f0-fbcc-44a6-afbc-6dde9320915f": {
+      "ProjectGuid": "965b87f0-fbcc-44a6-afbc-6dde9320915f",
+      "DisplayName": "Alpaki.ProductManager.Internal.Functional.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

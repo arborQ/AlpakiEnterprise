@@ -1,0 +1,1 @@
+dotnet ef database update -p ./Alpaki.ProductManager.Internal.Persistance -s .\Alpaki.ProductManager.Internal.Api

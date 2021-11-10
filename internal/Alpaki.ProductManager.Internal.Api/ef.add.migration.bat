@@ -1,0 +1,1 @@
+dotnet ef migrations add %1Migration -p ./Alpaki.ProductManager.Internal.Persistance -s .\Alpaki.ProductManager.Internal.Api
