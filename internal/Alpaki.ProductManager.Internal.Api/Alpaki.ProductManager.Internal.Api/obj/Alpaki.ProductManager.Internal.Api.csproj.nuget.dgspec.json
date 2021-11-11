@@ -31,7 +31,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj": {
+                "projectPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -85,6 +89,74 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj",
+        "projectName": "Alpaki.ProductManager.Internal.Persistance",
+        "projectPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj",
+        "packagesPath": "C:\\Users\\arbor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arbor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/softwareone-pc/_packaging/PyraCloud/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

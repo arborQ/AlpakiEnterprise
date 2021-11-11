@@ -1,3 +1,4 @@
+using Alpaki.ProductManager.Internal.Persistance;
 using Alpaki.ProductManager.Internal.Service.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,16 +17,14 @@ builder
     .AddJsonFile("appsettings.json")
     .AddJsonFile("appsettings.secrets.json", true);
 
-//builder.Host.ConfigureServices((hostBuilderContext, services) =>
-//{
-//    var connectionString = hostBuilderContext.Configuration["ConnectionString"];
-//    services.AddPersistance(connectionString, LoggerFactory.Create(builder => builder.AddJsonConsole()));
-//});
+var connectionString = builder.Configuration["ConnectionString"];
+builder.Services.AddPersistance(connectionString);
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 app.MapGrpcService<GreeterService>();
 app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
+app.Services.UsePersistance();
 
 app.Run();

@@ -1,25 +1,30 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿namespace Alpaki.ProductManager.Internal.Persistance;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace Alpaki.ProductManager.Internal.Persistance
+
+public static class ModuleInstaller
 {
-    public static class ModuleInstaller
+    public static IServiceCollection AddPersistance(this IServiceCollection services, string connectionString, ILoggerFactory? loggerFactory = null)
     {
-        public static IServiceCollection AddPersistance(this IServiceCollection services, string connectionString, ILoggerFactory loggerFactory)
-        {
-            services.AddDbContext<DatabaseContext>(
-                opt => opt
-                    .UseLoggerFactory(loggerFactory)
-                    .EnableSensitiveDataLogging()
-                    .EnableServiceProviderCaching()
-                    .UseSqlServer(connectionString),
-                ServiceLifetime.Transient
-            );
+        services.AddDbContext<DatabaseContext>(
+            opt => opt
+                .UseLoggerFactory(loggerFactory)
+                .EnableSensitiveDataLogging()
+                .EnableServiceProviderCaching()
+                .UseSqlServer(connectionString),
+            ServiceLifetime.Transient
+        );
 
-            services.AddTransient<IDbContext, DatabaseContext>();
+        services.AddTransient<IDbContext, DatabaseContext>();
+        services.AddTransient<DatabaseContext>();
 
-            return services;
-        }
+        return services;
+    }
+
+    public static IServiceProvider UsePersistance(this IServiceProvider serviceProvider)
+    {
+        return serviceProvider;
     }
 }

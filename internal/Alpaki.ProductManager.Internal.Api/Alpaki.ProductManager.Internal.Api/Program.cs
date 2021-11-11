@@ -1,5 +1,6 @@
-var builder = WebApplication.CreateBuilder(args);
+using Alpaki.ProductManager.Internal.Persistance;
 
+var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -11,6 +12,9 @@ builder
     .Configuration
     .AddJsonFile("appsettings.json")
     .AddJsonFile("appsettings.secrets.json", true);
+
+var connectionString = builder.Configuration["ConnectionString"];
+builder.Services.AddPersistance(connectionString);
 
 var app = builder.Build();
 
@@ -26,5 +30,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.Services.UsePersistance();
 
 app.Run();

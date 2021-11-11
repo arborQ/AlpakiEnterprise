@@ -21,6 +21,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <ProjectReference Include="..\Alpaki.ProductManager.Internal.Persistance\Alpaki.ProductManager.Internal.Persistance.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<Protobuf Include="Protos\greet.proto" GrpcServices="Client" />
 	</ItemGroup>
 
