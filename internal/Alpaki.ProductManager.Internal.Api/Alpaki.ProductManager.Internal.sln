@@ -11,9 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{85D97BDD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alpaki.ProductManager.Internal.Functional.Tests", "tests\Alpaki.ProductManager.Internal.Functional.Tests\Alpaki.ProductManager.Internal.Functional.Tests.csproj", "{965B87F0-FBCC-44A6-AFBC-6DDE9320915F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaki.ProductManager.Internal.Service", "Alpaki.ProductManager.Internal.Service\Alpaki.ProductManager.Internal.Service.csproj", "{47E311BE-4876-4B88-A2DF-E6BA48F8221E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alpaki.ProductManager.Internal.Service", "Alpaki.ProductManager.Internal.Service\Alpaki.ProductManager.Internal.Service.csproj", "{47E311BE-4876-4B88-A2DF-E6BA48F8221E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaki.ProductManager.Internal.Api", "Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Api.csproj", "{A2C03D6E-152C-44D3-A537-F8B0AD55AA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alpaki.ProductManager.Internal.Api", "Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Api.csproj", "{A2C03D6E-152C-44D3-A537-F8B0AD55AA83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{160A0487-BD4F-4779-88AD-934FFF90F8FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj": {}
+    "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj": {
+    "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj",
         "projectName": "Alpaki.ProductManager.Internal.Functional.Tests",
-        "projectPath": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj",
-        "packagesPath": "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\obj\\",
+        "projectPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\Alpaki.ProductManager.Internal.Functional.Tests.csproj",
+        "packagesPath": "C:\\Users\\arbor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\tests\\Alpaki.ProductManager.Internal.Functional.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lukasz.wojcik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arbor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,9 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.org/api/v2/": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://softwareone-pc.pkgs.visualstudio.com/_packaging/PyraCloud/nuget/v3/index.json": {}
+          "https://pkgs.dev.azure.com/softwareone-pc/_packaging/PyraCloud/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

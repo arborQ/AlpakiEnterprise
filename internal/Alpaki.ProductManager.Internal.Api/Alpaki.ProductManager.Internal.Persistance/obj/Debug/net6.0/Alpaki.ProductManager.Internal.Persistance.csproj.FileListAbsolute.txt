@@ -10,3 +10,15 @@ C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.ProductManager.In
 C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.dll
 C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\ref\Alpaki.ProductManager.Internal.Persistance.dll
 C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.pdb
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\bin\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.deps.json
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\bin\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.dll
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\bin\Debug\net6.0\ref\Alpaki.ProductManager.Internal.Persistance.dll
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\bin\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.pdb
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.csproj.AssemblyReference.cache
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.AssemblyInfoInputs.cache
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.AssemblyInfo.cs
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.dll
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\ref\Alpaki.ProductManager.Internal.Persistance.dll
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.ProductManager.Internal.Api\Alpaki.ProductManager.Internal.Persistance\obj\Debug\net6.0\Alpaki.ProductManager.Internal.Persistance.pdb

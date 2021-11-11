@@ -1,5 +1,3 @@
-using Alpaki.ProductManager.Internal.Persistance;
-using Alpaki.ProductManager.Internal.Service;
 using Alpaki.ProductManager.Internal.Service.Services;
 
 var builder = WebApplication.CreateBuilder(args);
