@@ -1,3 +1,4 @@
+using Alpaki.ProductManager.Internal.Api;
 using Alpaki.ProductManager.Internal.Persistance;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,8 +14,16 @@ builder
     .AddJsonFile("appsettings.json")
     .AddJsonFile("appsettings.secrets.json", true);
 
-var connectionString = builder.Configuration["ConnectionString"];
-builder.Services.AddPersistance(connectionString);
+var configuration = builder.Configuration.Get<ApiConfiguration>();
+
+if (configuration?.ConnectionString != null)
+{
+    builder.Services.AddPersistance(configuration.ConnectionString);
+}
+else
+{
+    throw new ArgumentException(nameof(ApiConfiguration.ConnectionString));
+}
 
 var app = builder.Build();
 

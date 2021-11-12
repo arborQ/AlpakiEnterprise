@@ -2264,23 +2264,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arbor\\.nuget\\packages\\": {},
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Service\\Alpaki.ProductManager.Internal.Service.csproj",
+      "projectUniqueName": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Service\\Alpaki.ProductManager.Internal.Service.csproj",
       "projectName": "Alpaki.ProductManager.Internal.Service",
-      "projectPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Service\\Alpaki.ProductManager.Internal.Service.csproj",
-      "packagesPath": "C:\\Users\\arbor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Service\\obj\\",
+      "projectPath": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Service\\Alpaki.ProductManager.Internal.Service.csproj",
+      "packagesPath": "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\arbor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lukasz.wojcik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2288,15 +2288,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.org/api/v2/": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/softwareone-pc/_packaging/PyraCloud/nuget/v3/index.json": {}
+        "https://softwareone-pc.pkgs.visualstudio.com/_packaging/PyraCloud/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj": {
-              "projectPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj"
+            "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj": {
+              "projectPath": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.ProductManager.Internal.Api\\Alpaki.ProductManager.Internal.Persistance\\Alpaki.ProductManager.Internal.Persistance.csproj"
             }
           }
         }
