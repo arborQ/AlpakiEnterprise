@@ -1,0 +1,28 @@
+ <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Command</Title>
+            <Author>Lukasz Wojcik</Author>
+            <Shortcut>mcom</Shortcut>
+        </Header>
+        <Snippet>
+        <Declarations>
+            <Literal>
+            <ID>Name</ID>
+            <ToolTip>Name</ToolTip>
+            <Default>Command</Default>
+            </Literal>
+        </Declarations>
+            <Code Language="CSharp">
+                public class $Name$Request : IRequest
+                {
+                    internal class $Name$RequestHandler : IRequestHandler<$Name$Request>
+                    {
+                        public Task<Unit> Handle($Name$Request request, CancellationToken cancellationToken)
+                        {
+                            return Task.FromResult(Unit.Value);
+                        }
+                    }
+                }
+            </Code>
+        </Snippet>
+    </CodeSnippet>

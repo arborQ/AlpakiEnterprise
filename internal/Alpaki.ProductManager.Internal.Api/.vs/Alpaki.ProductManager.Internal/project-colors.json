@@ -20,7 +20,17 @@
       "ProjectGuid": "965b87f0-fbcc-44a6-afbc-6dde9320915f",
       "DisplayName": "Alpaki.ProductManager.Internal.Functional.Tests",
       "ColorIndex": 2
+    },
+    "47e311be-4876-4b88-a2df-e6ba48f8221e": {
+      "ProjectGuid": "47e311be-4876-4b88-a2df-e6ba48f8221e",
+      "DisplayName": "Alpaki.ProductManager.Internal.Service",
+      "ColorIndex": 3
+    },
+    "a2c03d6e-152c-44d3-a537-f8b0ad55aa83": {
+      "ProjectGuid": "a2c03d6e-152c-44d3-a537-f8b0ad55aa83",
+      "DisplayName": "Alpaki.ProductManager.Internal.Api",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
