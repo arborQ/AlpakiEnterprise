@@ -1,0 +1,9 @@
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.csproj.AssemblyReference.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.AssemblyInfoInputs.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.AssemblyInfo.cs
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.csproj.CoreCompileInputs.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.RazorAssemblyInfo.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Web\obj\Debug\net6.0\Alpaki.Clean.Web.RazorAssemblyInfo.cs

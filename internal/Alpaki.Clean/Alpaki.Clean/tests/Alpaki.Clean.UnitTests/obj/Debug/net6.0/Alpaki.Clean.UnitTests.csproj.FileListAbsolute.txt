@@ -1,0 +1,6 @@
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\tests\Alpaki.Clean.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\tests\Alpaki.Clean.UnitTests\obj\Debug\net6.0\Alpaki.Clean.UnitTests.csproj.AssemblyReference.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\tests\Alpaki.Clean.UnitTests\obj\Debug\net6.0\Alpaki.Clean.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\tests\Alpaki.Clean.UnitTests\obj\Debug\net6.0\Alpaki.Clean.UnitTests.AssemblyInfoInputs.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\tests\Alpaki.Clean.UnitTests\obj\Debug\net6.0\Alpaki.Clean.UnitTests.AssemblyInfo.cs
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\tests\Alpaki.Clean.UnitTests\obj\Debug\net6.0\Alpaki.Clean.UnitTests.csproj.CoreCompileInputs.cache

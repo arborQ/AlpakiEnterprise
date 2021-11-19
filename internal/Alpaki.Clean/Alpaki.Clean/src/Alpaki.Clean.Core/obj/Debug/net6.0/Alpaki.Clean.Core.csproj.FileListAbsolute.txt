@@ -1,0 +1,15 @@
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\bin\Debug\net6.0\Alpaki.Clean.Core.deps.json
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\bin\Debug\net6.0\Alpaki.Clean.Core.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\bin\Debug\net6.0\ref\Alpaki.Clean.Core.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\bin\Debug\net6.0\Alpaki.Clean.Core.pdb
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\bin\Debug\net6.0\Alpaki.Clean.SharedKernel.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\bin\Debug\net6.0\Alpaki.Clean.SharedKernel.pdb
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.csproj.AssemblyReference.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.AssemblyInfoInputs.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.AssemblyInfo.cs
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.csproj.CoreCompileInputs.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.csproj.CopyComplete
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\ref\Alpaki.Clean.Core.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.Core\obj\Debug\net6.0\Alpaki.Clean.Core.pdb

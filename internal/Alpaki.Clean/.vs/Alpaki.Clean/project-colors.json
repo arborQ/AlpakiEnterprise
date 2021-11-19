@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3718383a-e46f-4f7d-9ca1-b8740970419c": {
+      "ProjectGuid": "3718383a-e46f-4f7d-9ca1-b8740970419c",
+      "DisplayName": "Alpaki.Clean.Web",
+      "ColorIndex": 0
+    },
+    "7068dd45-9b04-4604-8b3d-e2f7ce364645": {
+      "ProjectGuid": "7068dd45-9b04-4604-8b3d-e2f7ce364645",
+      "DisplayName": "Alpaki.Clean.FunctionalTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2c646f4a-241a-4b8b-8ec6-5cce992a73aa": {
+      "ProjectGuid": "2c646f4a-241a-4b8b-8ec6-5cce992a73aa",
+      "DisplayName": "Alpaki.Clean.UnitTests",
+      "ColorIndex": 2
+    },
+    "adf9f8e5-82e6-48a1-ba04-d2752cc22034": {
+      "ProjectGuid": "adf9f8e5-82e6-48a1-ba04-d2752cc22034",
+      "DisplayName": "Alpaki.Clean.Core",
+      "ColorIndex": 3
+    },
+    "4204319c-2634-4368-9c02-c1898ecdc9ff": {
+      "ProjectGuid": "4204319c-2634-4368-9c02-c1898ecdc9ff",
+      "DisplayName": "Alpaki.Clean.SharedKernel",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOsdqBeBcjzuPytqiu2RnQ1DhTazEG8KxERtRO5amHsRJDXyF9Fj2J1Fkkc7LBRRGyGuCWZckkCTY6KgcLUYVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.Clean\\Alpaki.Clean\\src\\Alpaki.Clean.Core\\Alpaki.Clean.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\ardalis.guardclauses\\3.3.0\\ardalis.guardclauses.3.3.0.nupkg.sha512",
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\ardalis.result\\3.1.2\\ardalis.result.3.1.2.nupkg.sha512",
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

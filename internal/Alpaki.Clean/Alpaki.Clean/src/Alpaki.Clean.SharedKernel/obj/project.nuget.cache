@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0tdnnc31wy7kw85ZN2nq4G4eLGB0icZEjuRnRZ3Uu1MxeVrJE04BZ30uU8oo3upqwVOh/plcxK74he9+KmsBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukasz.wojcik\\github\\AlpakiEnterprise\\internal\\Alpaki.Clean\\Alpaki.Clean\\src\\Alpaki.Clean.SharedKernel\\Alpaki.Clean.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\lukasz.wojcik\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

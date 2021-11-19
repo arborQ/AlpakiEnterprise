@@ -1,0 +1,11 @@
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\bin\Debug\net6.0\Alpaki.Clean.SharedKernel.deps.json
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\bin\Debug\net6.0\Alpaki.Clean.SharedKernel.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\bin\Debug\net6.0\ref\Alpaki.Clean.SharedKernel.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\bin\Debug\net6.0\Alpaki.Clean.SharedKernel.pdb
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\obj\Debug\net6.0\Alpaki.Clean.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\obj\Debug\net6.0\Alpaki.Clean.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\obj\Debug\net6.0\Alpaki.Clean.SharedKernel.AssemblyInfo.cs
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\obj\Debug\net6.0\Alpaki.Clean.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\obj\Debug\net6.0\Alpaki.Clean.SharedKernel.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\obj\Debug\net6.0\ref\Alpaki.Clean.SharedKernel.dll
+C:\Users\lukasz.wojcik\github\AlpakiEnterprise\internal\Alpaki.Clean\Alpaki.Clean\src\Alpaki.Clean.SharedKernel\obj\Debug\net6.0\Alpaki.Clean.SharedKernel.pdb
