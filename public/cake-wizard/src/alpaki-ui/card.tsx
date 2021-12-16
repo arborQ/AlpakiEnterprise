@@ -4,7 +4,7 @@ export function Card(props: PropsWithChildren<{}>) {
     const { children } = props;
 
     return (
-        <div tabIndex={1} className="relative outline-none rounded-xl shadow-xl focus:shadow-2xl focus-within:shadow-2xl p-4 md:p-6 border transition duration-150 ease-in-out">
+        <div tabIndex={1} className="relative outline-none rounded-md shadow-lg shadow-primary/40 hover:shadow-primary/60 dark:shadow-white/50 hover:dark:shadow-white/60 p-4 md:p-6 border">
             <div className="z-20 relative">
                 {children}
             </div>
