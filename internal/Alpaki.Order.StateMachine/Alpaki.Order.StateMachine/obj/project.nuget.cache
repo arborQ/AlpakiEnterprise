@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1nE+YN6lA4dbqMyCwU1a6ok93qEcdJhvdvgs0tDfRTQd7W+0Hwo+V3qiQhAyWG6d6eC2ccvYHnFjEBX6dH6hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arbor\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",
+    "C:\\Users\\arbor\\.nuget\\packages\\greenpipes\\4.0.1\\greenpipes.4.0.1.nupkg.sha512",
+    "C:\\Users\\arbor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\arbor\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

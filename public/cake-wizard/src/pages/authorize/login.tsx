@@ -26,7 +26,7 @@ const AuthorizeValidationSchema = Yup.object().shape({
 export function LoginForm({ login, password, onSubmit, externalLogin }: LoginFormProps) {
     return (
         <div className="flex place-content-center">
-            <div className="sm:w-3/5 md:w-2/5 w-4/5 max-w-sm">
+            <div className="sm:w-3/5 md:w-2/5 w-4/5 pt-4 max-w-sm">
 
                 <Formik validationSchema={AuthorizeValidationSchema} initialValues={{ login, password }} onSubmit={async (values) => {
                     await onSubmit(values.login, values.password);

@@ -9,7 +9,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background-image: url("../src/images/pexels-francesco-ungaro-673648.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -17,8 +16,4 @@ body {
   overflow: hidden;
   overflow-y: auto;
   background-attachment: fixed;
-}
-
-body.dark {
-  background-image: url("../src/images/adrien-olichon-RCAhiGJsUUE-unsplash.jpg");
 }

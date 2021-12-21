@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine.csproj",
+        "projectName": "Alpaki.Order.StateMachine",
+        "projectPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine.csproj",
+        "packagesPath": "C:\\Users\\arbor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arbor\\AlpakiEnterprise\\internal\\Alpaki.Order.StateMachine\\Alpaki.Order.StateMachine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arbor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/softwareone-pc/_packaging/PyraCloud/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Automatonymous": {
+              "target": "Package",
+              "version": "[5.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

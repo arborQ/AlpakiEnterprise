@@ -11,7 +11,7 @@ export function Input({ value, label, type = "text", ...otherProps }: InputProps
                 <input
                     type={type}
                     value={value}
-                    className="mt-1 py-3 px-4 outline-none block w-full focus:shadow-lg shadow-md sm:text-md border-gray-300 rounded-md border"
+                    className="mt-1 py-3 px-4 outline-none block w-full shadow-sm dark:bg-black shadow-primary/40 hover:shadow-primary/60 dark:shadow-white/50 hover:dark:shadow-white/60 sm:text-md border-gray-300 rounded-md border"
                     {...otherProps}
                 />
             </label>

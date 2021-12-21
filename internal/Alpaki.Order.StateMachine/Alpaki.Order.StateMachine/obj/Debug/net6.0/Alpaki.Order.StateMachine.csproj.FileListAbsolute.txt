@@ -1,0 +1,5 @@
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.Order.StateMachine\Alpaki.Order.StateMachine\obj\Debug\net6.0\Alpaki.Order.StateMachine.csproj.AssemblyReference.cache
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.Order.StateMachine\Alpaki.Order.StateMachine\obj\Debug\net6.0\Alpaki.Order.StateMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.Order.StateMachine\Alpaki.Order.StateMachine\obj\Debug\net6.0\Alpaki.Order.StateMachine.AssemblyInfoInputs.cache
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.Order.StateMachine\Alpaki.Order.StateMachine\obj\Debug\net6.0\Alpaki.Order.StateMachine.AssemblyInfo.cs
+C:\Users\arbor\AlpakiEnterprise\internal\Alpaki.Order.StateMachine\Alpaki.Order.StateMachine\obj\Debug\net6.0\Alpaki.Order.StateMachine.csproj.CoreCompileInputs.cache

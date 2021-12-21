@@ -6,6 +6,7 @@ import { useUserContext } from "./context/auth0-context";
 import { SideBar } from "./SideBar";
 import { NotFound } from "./pages/NotFound";
 import { LoginPage } from "./pages/authorize/login";
+import CustomizeCake from "./pages/cake/customize";
 
 type MenuItemCanView = (props: { isAuthorized: boolean }) => boolean;
 type MenuItem = { name: string; to: string; show: MenuItemCanView };
@@ -49,10 +50,13 @@ function App() {
 
   return (
     <SideBar items={items} icons={iconItems}>
-      <Routes>
-        <Route path="/authorize/login" element={<LoginPage />} /> 
-        <Route path="*" element={<NotFound />} />
-      </Routes>
+      <div className="py-1 sm:py-4">
+        <Routes>
+          <Route path="/authorize/login" element={<LoginPage />} />
+          <Route path="/cake" element={<CustomizeCake />} />
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </div>
     </SideBar>
   );
 }
